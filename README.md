@@ -1,20 +1,20 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
 
-# Informe1
+🛸 Informe1
 
 Análisis de datos de la tabla.
 
-## Cómo usar
+🌍 Cómo usar
 
 1. Clona este repositorio.
 2. Instala las dependencias necesarias.
 3. Ejecuta el proyecto.
 
-## Autor
+🪐 Autor
 
 Rocío Ramírez
 
-## Hallazgos
+🌋 Hallazgos
 
 1. Análisis mensual
 Observaciones:
