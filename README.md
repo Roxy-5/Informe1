@@ -64,7 +64,8 @@ Calculo los promedios de 'b2b' y 'b2c'.
     ![image](https://github.com/user-attachments/assets/f3f94b36-a66e-458c-802d-fe60ef54eac0)
 14. ¿Existe correlación entre el presupuesto (budget) y los ingresos (revenue)?: Hay correlación negativa muy débil (-0.05).
 15. ¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000?
-16. ¿Existen patrones estacionales o temporales en el rendimiento de las campañas?: 
+    ![image](https://github.com/user-attachments/assets/4d89c183-dfe4-469e-a0cd-ce148627ffc0)
+17. ¿Existen patrones estacionales o temporales en el rendimiento de las campañas?: 
     Patrones mensuales:
     Enero y noviembre: Meses clave con alto rendimiento en términos de ROI y tasa de conversión, lo que los hace ideales para maximizar las inversiones.
     Diciembre: Aunque el ROI es bajo, el beneficio neto es elevado, probablemente impulsado por campañas estacionales de fin de año.
