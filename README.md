@@ -14,11 +14,13 @@ Análisis de datos de la tabla.
 
 Rocío Ramírez
 
+🌌 Proceso
+
+
 🌋 Hallazgos
 
 1. Análisis mensual
 Observaciones:
-ROI:
 Los meses con el ROI más alto son enero (32.82) y noviembre (32.25).
 El mes con el ROI más bajo es diciembre (16.76).
 Tasa de conversión:
@@ -33,7 +35,6 @@ Diciembre tiene un ROI bajo, pero el beneficio neto es relativamente alto, lo qu
 
 2. Análisis trimestral
 Observaciones:
-ROI:
 El trimestre con el ROI más alto es Q1 (27.45).
 El trimestre con el ROI más bajo es Q3 (23.60).
 Tasa de conversión:
@@ -48,7 +49,6 @@ Q4 (octubre-diciembre) tiene el rendimiento más bajo en términos de tasa de co
 
 3. Análisis anual
 Observaciones:
-ROI:
 El ROI más alto ocurre en 2023 (26.59).
 El ROI más bajo ocurre en 2025 (1.67), aunque este año parece tener pocos datos.
 Tasa de conversión:
