@@ -53,9 +53,9 @@ Calculo los promedios de 'b2b' y 'b2c'.
 2. ¿Qué canal genera mejor ROI?: Referral.
 3. ¿Qué tipo de campaña genera más ingresos en promedio?: Social media.
 4. ¿Qué campaña tiene mejor conversión?: Webinar.
-5. ¿Qué campaña genera el mejor roi?: Social media.
-6. ¿Cuál audiencia genera mejor roi?: b2b.
-7. ¿Qué presupuesto genera más roi?: 71941.12.
+5. ¿Qué campaña genera el mejor ROI?: Social media.
+6. ¿Cuál audiencia genera mejor ROI?: b2b.
+7. ¿Qué presupuesto genera más ROI?: 71941.12.
 8. ¿Hay diferencias significativas en la tasa de conversión entre audiencias B2B y B2C?: No.
 9. ¿Qué campaña tiene el mayor beneficio neto (net_profit)?: Social media.
 10. Calcular métricas clave por tipo de campaña.
