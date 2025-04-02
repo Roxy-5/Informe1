@@ -47,7 +47,7 @@ Propongo 4 validaciones y filtro las inconsistencias: 4 inconsistencias.
 Vuelvo a calcular los valores nulos de todas las columnas: 0.
 Calculo los promedios de 'b2b' y 'b2c'.
 
-Respuestas a las preguntas del cliente:
+🚀 Respuestas a las preguntas del cliente:
 
 ¿Qué canal de marketing se utiliza con mayor frecuencia?: Promotion.
 ¿Qué canal genera mejor ROI?: Referral.
@@ -114,7 +114,7 @@ Conclusión anual:
 2023 muestra un mejor rendimiento general en términos de ROI y tasa de conversión.
 2025 tiene un rendimiento significativamente más bajo, pero esto podría deberse a un número limitado de datos.
 
-4. Recomendaciones estratégicas
+🗾 Recomendaciones estratégicas:
 Enero y noviembre: Maximizar la inversión en campañas durante estos meses para aprovechar el ROI y las tasas de conversión superiores.
 Diciembre: Optimizar la eficiencia de las campañas para aumentar el ROI, capitalizando el alto beneficio neto de este mes.
 Q1: Priorizar el lanzamiento de campañas clave durante este trimestre de alto rendimiento.
