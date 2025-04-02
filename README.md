@@ -63,17 +63,19 @@ Conclusión anual:
 
 4. Conclusión general sobre patrones estacionales
 Patrones mensuales:
-Enero y noviembre son meses de alto rendimiento en términos de ROI y tasa de conversión.
-Diciembre tiene un ROI bajo, pero el beneficio neto es alto, lo que podría deberse a campañas de fin de año.
-Patrones trimestrales:
-Q1 (enero-marzo) es el trimestre con el mejor rendimiento general.
-Q4 (octubre-diciembre) tiene el rendimiento más bajo en términos de tasa de conversión y beneficio neto.
-Patrones anuales:
-2023 muestra un mejor rendimiento general en términos de ROI y tasa de conversión.
-2025 tiene un rendimiento significativamente más bajo, pero esto podría deberse a datos limitados.
+Enero y noviembre: Meses clave con alto rendimiento en términos de ROI y tasa de conversión, lo que los hace ideales para maximizar las inversiones.
+Diciembre: Aunque el ROI es bajo, el beneficio neto es elevado, probablemente impulsado por campañas estacionales de fin de año.
 
-5. Recomendaciones:
-Aumentar la inversión en campañas durante enero y noviembre, ya que estos meses tienen un ROI y una tasa de conversión altos.
-Optimizar las campañas de diciembre para mejorar el ROI, ya que el beneficio neto es alto pero la eficiencia es baja.
-Aprovechar el Q1 para lanzar campañas clave, ya que es el trimestre con el mejor rendimiento general.
-Revisar las estrategias de Q4, especialmente en términos de eficiencia, para mejorar la tasa de conversión y el beneficio neto.
+Patrones trimestrales:
+Q1 (enero-marzo): El mejor trimestre en cuanto a rendimiento global, representando una oportunidad óptima para campañas estratégicas.
+Q4 (octubre-diciembre): El trimestre con el desempeño más bajo, tanto en términos de tasa de conversión como de beneficio neto, lo que sugiere áreas a mejorar.
+
+Patrones anuales:
+2023: Año destacado con el mejor rendimiento en ROI y tasa de conversión.
+2025: Desempeño inferior, posiblemente influenciado por datos incompletos o parciales.
+
+5. Recomendaciones estratégicas
+Enero y noviembre: Maximizar la inversión en campañas durante estos meses para aprovechar el ROI y las tasas de conversión superiores.
+Diciembre: Optimizar la eficiencia de las campañas para aumentar el ROI, capitalizando el alto beneficio neto de este mes.
+Q1: Priorizar el lanzamiento de campañas clave durante este trimestre de alto rendimiento.
+Q4: Evaluar y ajustar estrategias de campaña para mejorar la eficiencia, enfocados en aumentar la tasa de conversión y los beneficios netos.
