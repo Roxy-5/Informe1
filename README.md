@@ -59,11 +59,12 @@ Calculo los promedios de 'b2b' y 'b2c'.
 8. ¿Hay diferencias significativas en la tasa de conversión entre audiencias B2B y B2C?: No.
 9. ¿Qué campaña tiene el mayor beneficio neto (net_profit)?: Social media.
 10. Calcular métricas clave por tipo de campaña.
-    ![image](https://github.com/user-attachments/assets/f3f94b36-a66e-458c-802d-fe60ef54eac0)
+    ![image](https://github.com/user-attachments/assets/03ebe76a-d04b-44ff-afab-c898bff445b3)
 12. Visualizar el beneficio neto promedio por tipo de campaña.
-13. ¿Existe correlación entre el presupuesto (budget) y los ingresos (revenue)?: Hay correlación negativa muy débil (-0.05).
-14. ¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000?
-15. ¿Existen patrones estacionales o temporales en el rendimiento de las campañas?: 
+    ![image](https://github.com/user-attachments/assets/f3f94b36-a66e-458c-802d-fe60ef54eac0)
+14. ¿Existe correlación entre el presupuesto (budget) y los ingresos (revenue)?: Hay correlación negativa muy débil (-0.05).
+15. ¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000?
+16. ¿Existen patrones estacionales o temporales en el rendimiento de las campañas?: 
     Patrones mensuales:
     Enero y noviembre: Meses clave con alto rendimiento en términos de ROI y tasa de conversión, lo que los hace ideales para maximizar las inversiones.
     Diciembre: Aunque el ROI es bajo, el beneficio neto es elevado, probablemente impulsado por campañas estacionales de fin de año.
