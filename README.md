@@ -49,29 +49,29 @@ Calculo los promedios de 'b2b' y 'b2c'.
 
 🚀 Respuestas a las preguntas del cliente:
 
-¿Qué canal de marketing se utiliza con mayor frecuencia?: Promotion.
-¿Qué canal genera mejor ROI?: Referral.
-¿Qué tipo de campaña genera más ingresos en promedio?: Social media.
-¿Qué campaña tiene mejor conversión?: Webinar.
-¿Qué campaña genera el mejor roi?: Social media.
-¿Cuál audiencia genera mejor roi?: b2b.
-¿Qué presupuesto genera más roi?: 71941.12.
-¿Hay diferencias significativas en la tasa de conversión entre audiencias B2B y B2C?: No.
-¿Qué campaña tiene el mayor beneficio neto (net_profit)?: Social media.
-Calcular métricas clave por tipo de campaña.
-Visualizar el beneficio neto promedio por tipo de campaña.
-¿Existe correlación entre el presupuesto (budget) y los ingresos (revenue)?: Hay correlación negativa muy débil (-0.05).
-¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000?
-¿Existen patrones estacionales o temporales en el rendimiento de las campañas?: 
-Patrones mensuales:
-Enero y noviembre: Meses clave con alto rendimiento en términos de ROI y tasa de conversión, lo que los hace ideales para maximizar las inversiones.
-Diciembre: Aunque el ROI es bajo, el beneficio neto es elevado, probablemente impulsado por campañas estacionales de fin de año.
-Patrones trimestrales:
-Q1 (enero-marzo): El mejor trimestre en cuanto a rendimiento global, representando una oportunidad óptima para campañas estratégicas.
-Q4 (octubre-diciembre): El trimestre con el desempeño más bajo, tanto en términos de tasa de conversión como de beneficio neto, lo que sugiere áreas a mejorar.
-Patrones anuales:
-2023: Año destacado con el mejor rendimiento en ROI y tasa de conversión.
-2025: Desempeño inferior, posiblemente influenciado por datos incompletos o parciales.
+1. ¿Qué canal de marketing se utiliza con mayor frecuencia?: Promotion.
+2. ¿Qué canal genera mejor ROI?: Referral.
+3. ¿Qué tipo de campaña genera más ingresos en promedio?: Social media.
+4. ¿Qué campaña tiene mejor conversión?: Webinar.
+5. ¿Qué campaña genera el mejor roi?: Social media.
+6. ¿Cuál audiencia genera mejor roi?: b2b.
+7. ¿Qué presupuesto genera más roi?: 71941.12.
+8. ¿Hay diferencias significativas en la tasa de conversión entre audiencias B2B y B2C?: No.
+9. ¿Qué campaña tiene el mayor beneficio neto (net_profit)?: Social media.
+10. Calcular métricas clave por tipo de campaña.
+11. Visualizar el beneficio neto promedio por tipo de campaña.
+12. ¿Existe correlación entre el presupuesto (budget) y los ingresos (revenue)?: Hay correlación negativa muy débil (-0.05).
+13. ¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000?
+14. ¿Existen patrones estacionales o temporales en el rendimiento de las campañas?: 
+    Patrones mensuales:
+    Enero y noviembre: Meses clave con alto rendimiento en términos de ROI y tasa de conversión, lo que los hace ideales para maximizar las inversiones.
+    Diciembre: Aunque el ROI es bajo, el beneficio neto es elevado, probablemente impulsado por campañas estacionales de fin de año.
+    Patrones trimestrales:
+    Q1 (enero-marzo): El mejor trimestre en cuanto a rendimiento global, representando una oportunidad óptima para campañas estratégicas.
+    Q4 (octubre-diciembre): El trimestre con el desempeño más bajo, tanto en términos de tasa de conversión como de beneficio neto, lo que sugiere áreas a       mejorar.
+    Patrones anuales:
+    2023: Año destacado con el mejor rendimiento en ROI y tasa de conversión.
+    2025: Desempeño inferior, posiblemente influenciado por datos incompletos o parciales.
 
 🌋 Hallazgos
 
@@ -114,7 +114,8 @@ Conclusión anual:
 2023 muestra un mejor rendimiento general en términos de ROI y tasa de conversión.
 2025 tiene un rendimiento significativamente más bajo, pero esto podría deberse a un número limitado de datos.
 
-🗾 Recomendaciones estratégicas:
+🧭 Recomendaciones estratégicas
+
 Enero y noviembre: Maximizar la inversión en campañas durante estos meses para aprovechar el ROI y las tasas de conversión superiores.
 Diciembre: Optimizar la eficiencia de las campañas para aumentar el ROI, capitalizando el alto beneficio neto de este mes.
 Q1: Priorizar el lanzamiento de campañas clave durante este trimestre de alto rendimiento.
