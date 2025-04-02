@@ -14,7 +14,40 @@ Análisis de datos de la tabla.
 
 Rocío Ramírez
 
-🌌 Proceso
+🌌 Proceso llevado a cabo
+
+Calculo la media y el máximo de revenue.
+Elimino valores nulos de budget y calculo su media y máximo.
+Calculo los valores nulos de cada columna: 11 en total.
+Le doy valor desconocido a los valores nulos de type.
+Relleno los valores nulos de conversion_rate.
+Controlo y elimino las fechas locas de start_date y end_date. 
+Reemplazo los valores de roi y conversion_rate con comas por puntos y los convierto en decimal.
+Reemplazo los valores de budget y revenue con comas por puntos y los convierto a numérico.
+Elimino los duplicados de todas las columnas.
+Delimito target_audience a los valores 'b2b' y 'b2c' y elimino los nulos.
+Obtengo los valores únicos de channel para ver errores ortográficos: no hay errores.
+Identifico duplicados de channel y los mantengo.
+Convierto revenue y budget a numérico y los no válidos los convierto en 0.
+Calculo el beneficio neto.
+Detecto outliers en budget con el método IQR y Z-score: 1008 y 9999999.
+Detecto outliers en revenue con el método IQR y Z-score: ninguno.
+Calculo el porcentaje de valores faltantes por columna: 0.
+Elimino en budget y revenue los símbolos de moneda y separadores de miles para convertirlos a decimales.
+Normalizo el texto conviertiendo type a minúsculas y eliminando espacios adicionales.
+Corrijo las categorías de type y sus valores únicos.
+Extraigo los componentes temporales de start_date y end_date.
+Creo categorías de rendimiento en ROI y en la tasa de conversión.
+Elimino valores nulos de conversion_rate y evito las divisiones por cero.
+Creo una variable binaria para ROI positivo, para conversión alta (0,3) y presupuesto alto (100000).
+Verifico los tipos de datos de todas las columnas.
+Calculo ROI esperado en budget y revenue y lo comparo con el existente en el DataFrame filtrando las inconsistencias: 1.
+Inspecciono las inconsistencias y vuelvo a calcular el ROI en budget y revenue: sin inconsistencias.
+Propongo 4 validaciones y filtro las inconsistencias: 4 inconsistencias.
+Vuelvo a calcular los valores nulos de todas las columnas: 0.
+Calculo los promedios de 'b2b' y 'b2c'.
+
+Respuestas a las preguntas del cliente: 
 
 
 🌋 Hallazgos
