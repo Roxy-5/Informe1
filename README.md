@@ -72,7 +72,7 @@ Patrones anuales:
 2023 muestra un mejor rendimiento general en términos de ROI y tasa de conversión.
 2025 tiene un rendimiento significativamente más bajo, pero esto podría deberse a datos limitados.
 
-5. Recomendaciones
+5. Recomendaciones:
 Aumentar la inversión en campañas durante enero y noviembre, ya que estos meses tienen un ROI y una tasa de conversión altos.
 Optimizar las campañas de diciembre para mejorar el ROI, ya que el beneficio neto es alto pero la eficiencia es baja.
 Aprovechar el Q1 para lanzar campañas clave, ya que es el trimestre con el mejor rendimiento general.
