@@ -14,7 +14,7 @@ Análisis de datos de la tabla.
 
 Rocío Ramírez
 
-🌌 Proceso llevado a cabo para la limpieza y corrección de la base de datos:
+🌌 Proceso llevado a cabo para la limpieza y corrección:
 
 Calculo la media y el máximo de revenue.
 Elimino valores nulos de budget y calculo su media y máximo.
