@@ -19,8 +19,7 @@ Rocío Ramírez
 
 🌋 Hallazgos
 
-1. Análisis mensual
-Observaciones:
+1. Análisis mensual:
 Los meses con el ROI más alto son enero (32.82) y noviembre (32.25).
 El mes con el ROI más bajo es diciembre (16.76).
 Tasa de conversión:
@@ -33,8 +32,7 @@ Conclusión mensual:
 Enero y noviembre parecen ser meses de alto rendimiento en términos de ROI y tasa de conversión.
 Diciembre tiene un ROI bajo, pero el beneficio neto es relativamente alto, lo que podría deberse a campañas de fin de año con altos presupuestos.
 
-2. Análisis trimestral
-Observaciones:
+2. Análisis trimestral:
 El trimestre con el ROI más alto es Q1 (27.45).
 El trimestre con el ROI más bajo es Q3 (23.60).
 Tasa de conversión:
@@ -47,8 +45,7 @@ Conclusión trimestral:
 Q1 (enero-marzo) es el trimestre con el mejor rendimiento general, con el ROI y la tasa de conversión más altos.
 Q4 (octubre-diciembre) tiene el rendimiento más bajo en términos de tasa de conversión y beneficio neto, lo que podría deberse a campañas de alto presupuesto con menor eficiencia.
 
-3. Análisis anual
-Observaciones:
+3. Análisis anual:
 El ROI más alto ocurre en 2023 (26.59).
 El ROI más bajo ocurre en 2025 (1.67), aunque este año parece tener pocos datos.
 Tasa de conversión:
