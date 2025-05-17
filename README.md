@@ -43,6 +43,14 @@ Rocío Ramírez
 - Se asegura que todas las columnas tengan el tipo de dato correcto.
 - Se extraen mes, trimestre y año de las fechas para análisis estacional.
 - Se crean categorías para `'roi'` y `'conversion_rate'` usando `pd.cut()`.
+- **¿Qué se corrige en este proceso?:**
+  - Conversión y validación de tipos de datos.
+  - Relleno y eliminación de valores nulos.
+  - Corrección de valores inconsistentes y normalización de texto.
+  - Eliminación de duplicados y columnas innecesarias.
+  - Validaciones lógicas y corrección de métricas.
+  - Detección y revisión de outliers.
+  - Preparación de nuevas variables y categorías para análisis.
 
 🚀 Respuestas a las preguntas del cliente:
 
