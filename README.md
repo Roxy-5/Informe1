@@ -15,37 +15,34 @@ Análisis de datos de la tabla.
 Rocío Ramírez
 
 🌌 Proceso llevado a cabo para la limpieza y corrección:
-
-Calculo la media y el máximo de revenue.
-Elimino valores nulos de budget y calculo su media y máximo.
-Calculo los valores nulos de cada columna: 11 en total.
-Le doy valor desconocido a los valores nulos de type.
-Relleno los valores nulos de conversion_rate.
-Controlo y elimino las fechas locas de start_date y end_date. 
-Reemplazo los valores de roi y conversion_rate con comas por puntos y los convierto en decimal.
-Reemplazo los valores de budget y revenue con comas por puntos y los convierto a numérico.
-Elimino los duplicados de todas las columnas.
-Delimito target_audience a los valores 'b2b' y 'b2c' y elimino los nulos.
-Obtengo los valores únicos de channel para ver errores ortográficos: no hay errores.
-Identifico duplicados de channel y los mantengo.
-Convierto revenue y budget a numérico y los no válidos los convierto en 0.
-Calculo el beneficio neto.
-Detecto outliers en budget con el método IQR y Z-score: 1008 y 9999999.
-Detecto outliers en revenue con el método IQR y Z-score: ninguno.
-Calculo el porcentaje de valores faltantes por columna: 0.
-Elimino en budget y revenue los símbolos de moneda y separadores de miles para convertirlos a decimales.
-Normalizo el texto conviertiendo type a minúsculas y eliminando espacios adicionales.
-Corrijo las categorías de type y sus valores únicos.
-Extraigo los componentes temporales de start_date y end_date.
-Creo categorías de rendimiento en ROI y en la tasa de conversión.
-Elimino valores nulos de conversion_rate y evito las divisiones por cero.
-Creo una variable binaria para ROI positivo, para conversión alta (0,3) y presupuesto alto (100000).
-Verifico los tipos de datos de todas las columnas.
-Calculo ROI esperado en budget y revenue y lo comparo con el existente en el DataFrame filtrando las inconsistencias: 1.
-Inspecciono las inconsistencias y vuelvo a calcular el ROI en budget y revenue: sin inconsistencias.
-Propongo 4 validaciones y filtro las inconsistencias: 4 inconsistencias.
-Vuelvo a calcular los valores nulos de todas las columnas: 0.
-Calculo los promedios de 'b2b' y 'b2c'.
+- Se carga el archivo CSV con `pd.read_csv()`, usando `on_bad_lines='skip'` para ignorar filas problemáticas.
+- Se visualizan las primeras y últimas filas (`head()`, `tail()`), el número de filas y columnas (`shape`), los tipos de datos (`info()`, `dtypes`), y se revisan duplicados y valores nulos (`duplicated().sum()`, `isna().sum()`).
+- Se convierte la columna `'date'` a tipo `datetime` con `errors='coerce'` para manejar fechas inválidas.
+- Se elimina la columna `'campaign_name'` y otras columnas constantes, completamente nulas o de baja variabilidad.
+- Se identifican columnas con pocos valores únicos o con valores nulos.
+- Se convierten las columnas `'budget'` y `'revenue'` a numérico, eliminando símbolos y separadores de miles, y reemplazando valores no válidos con `NaN`.
+- Se rellenan valores nulos en `'budget'` y `'revenue'` con 0.
+- Se eliminan filas donde `'budget'` es menor o igual a 0.
+- Se eliminan filas duplicadas.
+- Se convierten a minúsculas y se eliminan espacios extra en columnas como `'type'` y `'target_audience'`.
+- Se corrigen valores erróneos en `'type'` usando un diccionario de reemplazo y coincidencias aproximadas (`difflib.get_close_matches`).
+- Se asegura que `'target_audience'` solo tenga valores `'b2b'` o `'b2c'`, eliminando filas con otros valores.
+- Se convierten `'start_date'` y `'end_date'` a tipo `datetime` con manejo de errores.
+- Se eliminan filas con fechas no válidas en `'start_date'` y `'end_date'`.
+- Se reemplazan comas por puntos en `'roi'` y `'conversion_rate'` y se convierten a `float`.
+- Se rellenan valores nulos en `'conversion_rate'` con 0 o un valor específico.
+- Se calcula el beneficio neto (`net_profit`), el costo por conversión y variables binarias para ROI positivo, conversión alta y presupuesto alto.
+- **Validaciones:**  
+  - `'revenue'` no puede ser menor que `'budget'`.
+  - `'roi'` debe ser consistente con `'budget'` y `'revenue'`.
+  - `'conversion_rate'` debe estar entre 0 y 1.
+  - `'start_date'` debe ser anterior a `'end_date'`.
+- Se recalcula `'roi'` cuando hay inconsistencias y se marcan las filas problemáticas.
+- Se eliminan o corrigen filas con inconsistencias lógicas.
+- Se detectan outliers en `'budget'` y `'revenue'` usando ambos métodos y se revisan los valores extremos.
+- Se asegura que todas las columnas tengan el tipo de dato correcto.
+- Se extraen mes, trimestre y año de las fechas para análisis estacional.
+- Se crean categorías para `'roi'` y `'conversion_rate'` usando `pd.cut()`.
 
 🚀 Respuestas a las preguntas del cliente:
 
