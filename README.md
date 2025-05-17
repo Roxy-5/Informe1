@@ -81,15 +81,15 @@ Rocío Ramírez
 13. ¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000? ![image](https://github.com/user-attachments/assets/4d89c183-dfe4-469e-a0cd-ce148627ffc0) ![image](https://github.com/user-attachments/assets/ae4f16f7-90f7-4719-945f-1ebe4f5ed2b2)
 
 14. ¿Existen patrones estacionales o temporales en el rendimiento de las campañas?: 
-    Patrones mensuales:
-    Enero y noviembre: Meses clave con alto rendimiento en términos de ROI y tasa de conversión, lo que los hace ideales para maximizar las inversiones.
-    Diciembre: Aunque el ROI es bajo, el beneficio neto es elevado, probablemente impulsado por campañas estacionales de fin de año.
-    Patrones trimestrales:
-    Q1 (enero-marzo): El mejor trimestre en cuanto a rendimiento global, representando una oportunidad óptima para campañas estratégicas.
-    Q4 (octubre-diciembre): El trimestre con el desempeño más bajo, tanto en términos de tasa de conversión como de beneficio neto, lo que sugiere áreas a       mejorar.
-    Patrones anuales:
-    2023: Año destacado con el mejor rendimiento en ROI y tasa de conversión.
-    2025: Desempeño inferior, posiblemente influenciado por datos incompletos o parciales. ![image](https://github.com/user-attachments/assets/ada752ce-c160-4b62-8113-ddc34f3c024c) ![image](https://github.com/user-attachments/assets/54e21bb0-a776-4227-870b-04660d2083cb) ![image](https://github.com/user-attachments/assets/7a8ad30b-4c9e-47b5-9e62-8738718e4739) ![image](https://github.com/user-attachments/assets/1ba3fd79-d9e5-4a01-ac87-5ad8359857ad)
+    - Patrones mensuales:
+      - Enero y noviembre: Meses clave con alto rendimiento en términos de ROI y tasa de conversión, lo que los hace ideales para maximizar las inversiones.
+      - Diciembre: Aunque el ROI es bajo, el beneficio neto es elevado, probablemente impulsado por campañas estacionales de fin de año.
+    - Patrones trimestrales:
+      - Q1 (enero-marzo): El mejor trimestre en cuanto a rendimiento global, representando una oportunidad óptima para campañas estratégicas.
+      - Q4 (octubre-diciembre): El trimestre con el desempeño más bajo, tanto en términos de tasa de conversión como de beneficio neto, lo que sugiere áreas a       mejorar.
+    - Patrones anuales:
+      - 2023: Año destacado con el mejor rendimiento en ROI y tasa de conversión.
+      - 2025: Desempeño inferior, posiblemente influenciado por datos incompletos o parciales. ![image](https://github.com/user-attachments/assets/ada752ce-c160-4b62-8113-ddc34f3c024c) ![image](https://github.com/user-attachments/assets/54e21bb0-a776-4227-870b-04660d2083cb) ![image](https://github.com/user-attachments/assets/7a8ad30b-4c9e-47b5-9e62-8738718e4739) ![image](https://github.com/user-attachments/assets/1ba3fd79-d9e5-4a01-ac87-5ad8359857ad)
  
 🌋 Hallazgos
 
