@@ -74,9 +74,9 @@ Rocío Ramírez
 10. Calcular métricas clave por tipo de campaña.
     ![image](https://github.com/user-attachments/assets/03ebe76a-d04b-44ff-afab-c898bff445b3)
 11. Visualizar el beneficio neto promedio por tipo de campaña.
-    ![image](https://github.com/user-attachments/assets/f3f94b36-a66e-458c-802d-fe60ef54eac0) ![image](https://github.com/user-attachments/assets/0c5b1f6d-1e9f-4a6b-b93e-d322164c4794)
-
-12. ¿Existe correlación entre el presupuesto (budget) y los ingresos (revenue)?: Hay correlación negativa muy débil (-0.05). ![image](https://github.com/user-attachments/assets/668f1b01-20fa-4139-b329-2da06e55f4dc)
+    ![image](https://github.com/user-attachments/assets/f3f94b36-a66e-458c-802d-fe60ef54eac0)
+    
+12. ¿Existe correlación entre el presupuesto (budget) y los ingresos (revenue)?: Hay correlación negativa muy débil (-0.05). ![image](https://github.com/user-attachments/assets/668f1b01-20fa-4139-b329-2da06e55f4dc) ![image](https://github.com/user-attachments/assets/0c5b1f6d-1e9f-4a6b-b93e-d322164c4794)
 
 13. ¿Qué campañas tienen un ROI mayor a 0.5 y ingresos encima de 500,000? ![image](https://github.com/user-attachments/assets/4d89c183-dfe4-469e-a0cd-ce148627ffc0) ![image](https://github.com/user-attachments/assets/ae4f16f7-90f7-4719-945f-1ebe4f5ed2b2)
 
