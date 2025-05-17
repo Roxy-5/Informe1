@@ -138,7 +138,7 @@ Rocío Ramírez
   - Maximizar la inversión en campañas durante estos meses para aprovechar el ROI y las tasas de conversión superiores.
 - **Diciembre:**
   - Optimizar la eficiencia de las campañas para aumentar el ROI, capitalizando el alto beneficio neto de este mes.
-- **Cuartil Q1:**
+- **Cuartil 1:**
   - Priorizar el lanzamiento de campañas clave durante este trimestre de alto rendimiento.
-- **Cuartil Q4:**
+- **Cuartil 4:**
   - Evaluar y ajustar estrategias de campaña para mejorar la eficiencia, enfocados en aumentar la tasa de conversión y los beneficios netos.
